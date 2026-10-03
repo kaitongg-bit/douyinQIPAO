@@ -1,8 +1,15 @@
-# Douyin Chat Bubble Skill
+# Douyin Chat Bubble Skill · 抖音聊天气泡设计 Skill
 
-为抖音 IM 点九图气泡设计、改图和上传前检查准备的 Codex skill。
+[English](README.en.md)
 
-它把两类约束放在一起：抖音静态资源尺寸、文本和边距要求，以及本项目额外要求的点九拉伸安全结构。
+利用 Codex 设计抖音 IM 点九图聊天气泡、改图并做上传前检查的 skill。
+
+它把两类约束放在一起：抖音静态资源尺寸、文本和边距要求，以及本项目额外要求的点九拉伸安全结构。独立维护和更新，不必跟随任何其他项目一起升级。
+
+<p align="center">
+  <a href="https://github.com/kaitongg-bit/douyinQIPAO"><img src="https://img.shields.io/github/stars/kaitongg-bit/douyinQIPAO" alt="Stars"></a>
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT">
+</p>
 
 ## 包含内容
 
@@ -46,4 +53,6 @@ OVERALL: PASS
 
 ## 许可证
 
-未附带第三方气泡素材或生成图片。使用者需确保自己的角色、素材和最终上传内容具备相应授权。
+本项目代码与文档采用 [MIT License](LICENSE)，可自由使用、修改和分发（包括商用）。
+
+未附带第三方气泡素材或生成图片；素材授权问题与本项目许可证无关。使用者需确保自己的角色、素材和最终上传内容具备相应授权。
